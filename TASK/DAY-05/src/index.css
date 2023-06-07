@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.link {
+  color: #f14d54;
+  font-size: 14px;
+  font-family: roboto;
+}
+
+.headerimg{
+  margin-left: 5%;
+  height: 60px;
+  width: 210px;
+}
+
+.headeraligntop{
+  height: 92px;
+}
+
+.headeralignbottom{
+  height: 80px;
+  background-color: rgb(229, 235, 233);
+  padding-top: 20px;
+
+}
+.items{
+  display: flex;
+  justify-content: center;
+}
+
+.footeralign{
+  height: 160px;
+  background-color: rgb(229, 235, 233);
+  margin-top: 82px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: block;
+}
+.footerimg{
+  height: 60px;
+  width: 210px;
+  margin-top: 16px;
+}
+
+.MuiButtonBase-root.MuiButton-root.MuiButton-outlined{
+  color: rgb(65,65,65);
+  border-color: rgb(65,65,65);
+}
+
+.MuiButtonBase-root.MuiButton-root.MuiButton-contained{
+  background-color: #f14d54;
+}
+
+h1{
+  font-size: 32px;
+  font-family: roboto;
+  color: #414141;
+  text-align: center;
+}
+
+h2{
+  font-size: 32px;
+  font-family: roboto;
+  color: #414141;
+  margin-top: 50px;
+}
+
+h3{
+  font-size: 20px;
+  font-family: roboto;
+  color: #414141;
+  margin-bottom: 20px;
+}
+
+h6{
+  font-size: 15px;
+  font-family: roboto-light;
+  color: #838383;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.registerbtn{
+  width: 134px;
+  height: 45px;
+}
+
+table{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#editbtn{
+  color: #80bf32;
+  border-color: #80bf32;
+  width: 80px;
+  height: 30px;
+}
+
+#deletebtn{
+  color: #f14d54;
+  border-color: #f14d54;
+  width: 80px;
+  height: 30px;
+}
+
+breadcrump-wrapper{
+  font: 18px;
+  font-family: robot;
+}
